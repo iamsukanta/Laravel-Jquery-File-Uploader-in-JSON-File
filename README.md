@@ -17,11 +17,11 @@ composer install
 ## Home page
 ![](public/img/readme/homepage.PNG)
 
-## Aboutme page
+## Upload page
 ![](public/img/readme/upload.PNG)
 
-## Portfolio page
+## Delete Modal
 ![](public/img/readme/delete.PNG)
 
-## Contact page
+## View page
 ![](public/img/readme/view.PNG)
